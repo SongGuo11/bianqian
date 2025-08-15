@@ -1,0 +1,17 @@
+每天两条
+Ins - 13:40 - 16:20 - 18:45 : fb - 13:25 - 17:05 - 20:00
+"D:\ATB TO B\批量视频\TOB_1_\TOB_1_27.mp4"+2
+"D:\ATB TO B\批量视频\TOB_16_\TOB_16_15.mp4"+1
+
+"D:\ATB TO B\批量视频\TOB_2_\TOB_2_28.mp4"+2
+"D:\ATB TO B\批量视频\TOB_1_\TOB_1_28.mp4"+2
+
+"D:\ATB TO B\批量视频\TOB_11_\TOB_11_28.mp4"+2
+"D:\ATB TO B\批量视频\TOB_2_\TOB_2_29.mp4"+2
+
+"D:\ATB TO B\批量视频\TOB_15_\TOB_15_14.mp4"+1
+"D:\ATB TO B\批量视频\TOB_11_\TOB_11_29.mp4"+2
+
+选择两个账号（文件夹下如果没有视频就不发，每天各一个文件夹）
+D:\ATB TO B\批量视频\2产品视频\ZCP016
+D:\ATB TO B\批量视频\3视频两侧信息窗叠加\ZCP015\视频

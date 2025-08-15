@@ -8,6 +8,8 @@
 - 窗口置顶功能，始终保持在所有程序的最前端
 - 基本的文本编辑功能（新建、打开、保存）
 - 自动保存功能
+- 右键菜单功能（复制、剪切、粘贴）
+- 应用图标
 
 ## 使用方法
 
@@ -15,6 +17,13 @@
 
 ```bash
 python main.py
+```
+
+或者运行打包后的可执行文件：
+
+```bash
+# 在bianqian-software目录中运行
+便笺工具.exe
 ```
 
 ## 操作说明
@@ -28,6 +37,11 @@ python main.py
 - **视图菜单**：
   - 窗口置顶：勾选后窗口将始终保持在最前端
 
+- **右键菜单**：
+  - 在文本区域点击右键可打开菜单
+  - 当有选中文本时，可使用复制或剪切功能
+  - 任何时候都可以使用粘贴功能
+
 - **快捷键**：
   - Ctrl+N：新建便笺
   - Ctrl+O：打开便笺
@@ -37,6 +51,14 @@ python main.py
 
 - Python 3.x
 - Tkinter（通常随Python一起安装）
+
+## 打包和分发
+
+使用PyInstaller打包应用：
+
+```bash
+pyinstaller --noconfirm --onefile --windowed --icon=icons/notes_icon.ico main.py
+```
 
 ## 注意事项
 
